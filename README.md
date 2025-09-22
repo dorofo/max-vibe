@@ -20,27 +20,20 @@
 
 **Инструкция по сборке:**
 
-1. Декодируйте оригинальный APK:
 
-   ```bash
-   apktool d max.apk -o decoded
-   ```
-
-2. Внесите изменения в папку `decoded` (опционально).
-
-3. Соберите APK обратно:
+1. Соберите APK из decoded:
 
    ```bash
    apktool b decoded -o max_rebuild.apk
    ```
 
-4. Подпишите APK:
+2. Подпишите APK:
 
    ```bash
    java -jar uber-apk-signer-1.3.0.jar --apks max_rebuild.apk
    ```
 
-5. Установите на устройство:
+3. Установите на устройство:
    ```bash
    adb install max_rebuild-aligned-debugSigned.apk
    ```
