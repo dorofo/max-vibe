@@ -67,27 +67,20 @@ This is a **privacy-focused modified version** of the MAX Messenger.
 
 **Quick Setup:**
 
-1. Decode the original APK:
 
-   ```bash
-   apktool d max.apk -o decoded
-   ```
-
-2. Make changes in the `decoded` folder (optional).
-
-3. Build the APK:
+1. Build the APK:
 
    ```bash
    apktool b decoded -o max_rebuild.apk
    ```
 
-4. Sign the APK:
+2. Sign the APK:
 
    ```bash
    java -jar uber-apk-signer-1.3.0.jar --apks max_rebuild.apk
    ```
 
-5. Install on your device:
+3. Install on your device:
    ```bash
    adb install max_rebuild-aligned-debugSigned.apk
    ```
