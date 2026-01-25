@@ -1,95 +1,74 @@
-# Modified MAX Messenger / Модифицированный мессенджер MAX
+# <p align="center">MaxVibe
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dorofo/max-vibe-assets/main/ic_launcher_max_vibe.png" width="120" alt="MaxVibe Icon">
+
+<p align="center">Telegram-канал: https://t.me/max_vibe
 
 ---
 
-## 🇷🇺
+## 🇷🇺 Модифицированный мессенджер MAX
 
-Это модифицированная версия мессенджера **MAX**, с улучшенной конфиденциальностью и некоторыми изменениями.
+**MaxVibe** - это приватная версия мессенджера **MAX** с расширенной анонимностью и изменёнными параметрами устройства.
 
-**Особенности:**
+### 🔥 Основные особенности:
 
-- Удалён доступ к **местоположению, Bluetooth, камере, файлам, аналитике** и другим подозрительным функциям.
-- Изменены некоторые **надписи в чатах**.
-- Фокус на **приватности и безопасности** пользователя.
+- **Полная анонимность**: IP-адрес принудительно установлен на Украина, Киев
+- **Идентификация устройства**: система видит вас как пользователя Redmi 9A
+- **Заблокирована вся аналитика**: ограничена работа VK Analytics, MyTracker и других систем сбора данных
+- **Нулевой доступ к данным**: приложение не имеет доступа к:
+  - 📍 Геолокации
+  - 📷 Камере
+  - 📁 Галерее и файлам
+  - 📶 Bluetooth
+- **Чистый интерфейс**: изменены некоторые надписи и элементы
 
-**Требования:**
+### 🛡️ Безопасность и приватность:
 
-- **Java** (необходима для сборки и подписи APK)
-- **APKTool**
-- **Uber APK Signer**
+- Все системы сбора метрик полностью отключены
+- Нет фоновой передачи данных о пользователе
+- Изменённый цифровой отпечаток устройства
+- Фокус на максимальной защите личной информации
 
-**Инструкция по сборке:**
+### ⚠️ Важная информация:
 
-
-1. Соберите APK из decoded:
-
-   ```bash
-   apktool b decoded -o max_rebuild.apk
-   ```
-
-2. Подпишите APK:
-
-   ```bash
-   java -jar uber-apk-signer-1.3.0.jar --apks max_rebuild.apk
-   ```
-
-3. Установите на устройство:
-   ```bash
-   adb install max_rebuild-aligned-debugSigned.apk
-   ```
-
-**Важно:**
-
-- Использовать только для **личного использования и тестирования**.
-- Модификация APK может **нарушать условия использования** приложения.
-- Всегда проверяйте APK на безопасность перед установкой.
-
-**Лицензия:**  
-Проект предоставляется **как есть**, без каких-либо гарантий.
+- **Только для личного использования** и тестирования
+- Модификация может нарушать условия использования оригинального приложения
+- Всегда проверяйте APK файлы на безопасность перед установкой
+- Проект предоставляется **"как есть"**, без каких-либо гарантий
 
 ---
 
-# 🇬🇧
+## 🇬🇧 Modified MAX Messenger
 
-This is a **privacy-focused modified version** of the MAX Messenger.
+**MaxVibe** is a privacy-focused version of **MAX Messenger** with enhanced anonymity and modified device parameters.
 
-**Features:**
+### 🔥 Key Features:
 
-- Removes access to **location, Bluetooth, camera, files, analytics**, and some other changes.
-- Changes some **chat texts** for a cleaner experience.
-- Focus on **user privacy and simplicity**.
+- **Complete anonymity**: IP address forced to Ukraine, Kiev
+- **Device spoofing**: system identifies you as Redmi 9A user
+- **Analytics blocked**: VK Analytics, MyTracker and other data collection systems limited
+- **Zero data access**: application has no access to:
+  - 📍 Location services
+  - 📷 Camera
+  - 📁 Gallery and files
+  - 📶 Bluetooth
+- **Clean interface**: modified some texts and elements
 
-**Requirements:**
+### 🛡️ Security & Privacy:
 
-- **Java** (for building and signing APK)
-- **APKTool**
-- **Uber APK Signer**
+- All metric collection systems completely disabled
+- No background user data transmission
+- Modified device digital fingerprint
+- Focus on maximum personal information protection
 
-**Quick Setup:**
+### ⚠️ Important Notes:
 
+- **For personal use and testing only**
+- Modification may violate original application's Terms of Service
+- Always verify APK files for safety before installation
+- Project provided **"as-is"**, no warranties
 
-1. Build the APK:
+---
 
-   ```bash
-   apktool b decoded -o max_rebuild.apk
-   ```
-
-2. Sign the APK:
-
-   ```bash
-   java -jar uber-apk-signer-1.3.0.jar --apks max_rebuild.apk
-   ```
-
-3. Install on your device:
-   ```bash
-   adb install max_rebuild-aligned-debugSigned.apk
-   ```
-
-**Notes:**
-
-- For **personal use and testing only**.
-- Modifying APKs may **violate the app’s terms of service**.
-- Always **verify APKs for safety** before installing.
-
-**License:**  
-This project is provided **as-is**, with no warranties.
+**Telegram channel:** [t.me/max_vibe](https://t.me/max_vibe)
