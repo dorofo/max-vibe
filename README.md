@@ -43,8 +43,6 @@
 
 ### 🔥 Key Features:
 
-- **Complete anonymity**: IP address forced to Ukraine, Kiev
-- **Device spoofing**: system identifies you as Redmi 9A user
 - **Analytics blocked**: VK Analytics, MyTracker and other data collection systems limited
 - **Zero data access**: application has no access to:
   - 📍 Location services
