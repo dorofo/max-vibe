@@ -14,12 +14,9 @@
 ### 🔥 Основные особенности:
 
 - **Заблокирована вся аналитика**: ограничена работа VK Analytics, MyTracker и других систем сбора данных
-- **Нулевой доступ к данным**: приложение не имеет доступа к:
-  - 📍 Геолокации
-  - 📷 Камере
-  - 📁 Галерее и файлам
-  - 📶 Bluetooth
-- **Чистый интерфейс**: изменены некоторые надписи и элементы
+- **Нулевой доступ к данным**: приложение не имеет доступа к фоновому сбору данных
+- **Сохранение удалённых сообщений**: удаленные сообщения собеседника остаются в чате с пометкой "❌"
+
 
 ### 🛡️ Безопасность и приватность:
 
@@ -44,12 +41,7 @@
 ### 🔥 Key Features:
 
 - **Analytics blocked**: VK Analytics, MyTracker and other data collection systems limited
-- **Zero data access**: application has no access to:
-  - 📍 Location services
-  - 📷 Camera
-  - 📁 Gallery and files
-  - 📶 Bluetooth
-- **Clean interface**: modified some texts and elements
+- **Zero data access**: application has no access to your data.
 
 ### 🛡️ Security & Privacy:
 
