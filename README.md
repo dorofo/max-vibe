@@ -16,6 +16,10 @@
 - **Заблокирована вся аналитика**: ограничена работа VK Analytics, MyTracker и других систем сбора данных
 - **Нулевой доступ к данным**: приложение не имеет доступа к фоновому сбору данных
 - **Сохранение удалённых сообщений**: удаленные сообщения собеседника остаются в чате с пометкой "❌"
+- **Шифрование чата**: Шифровка вашего диалога с помощью алгоритма AES
+- **Убрано отслеживание VPN / host reachability**
+- **Ускорение загрузки видео**: медиа грузится и подгружается быстрее
+- **Меню в профиле**: в профиле есть отдельное меню MaxVibe, откуда удобно управлять функциями
 
 
 ### 🛡️ Безопасность и приватность:
@@ -40,8 +44,13 @@
 
 ### 🔥 Key Features:
 
-- **Analytics blocked**: VK Analytics, MyTracker and other data collection systems limited
-- **Zero data access**: application has no access to your data.
+- **All analytics are blocked**: the operation of VK Analytics, MyTracker and other data collection systems is limited
+- **Zero Data Access**: The application has no access to background data collection
+- **Saving deleted messages**: deleted messages from your interlocutor remain in the chat with the mark "❌"
+- **Chat Encryption**: Encrypt your conversation using AES algorithm
+- **Removed VPN/host reachability tracking**
+- **Video loading speed**: media loads and loads faster
+- **Menu in profile**: in the profile there is a separate MaxVibe menu, from where it is convenient to control functions
 
 ### 🛡️ Security & Privacy:
 
