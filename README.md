@@ -4,6 +4,7 @@
   <img src="https://raw.githubusercontent.com/dorofo/max-vibe-assets/main/ic_launcher_max_vibe.png" width="120" alt="MaxVibe Icon">
 
 <p align="center">Telegram-канал: https://t.me/max_vibe
+<p align="center">Наш сайт: https://max-vibe-mod.github.io/-/
 
 ---
 
