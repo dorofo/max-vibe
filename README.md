@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/dorofo/max-vibe-assets/main/ic_launcher_max_vibe.png" width="120" alt="MaxVibe Icon">
 </p>
 
-<h1 align="center">MaxVibe 4.0.0</h1>
+<h1 align="center">MaxVibe 4.1.1</h1>
 
 <p align="center">
   <strong>Мод на мессенджер MAX</strong> · Android APK<br>
@@ -17,7 +17,7 @@
 
 <p align="center">
   <img alt="Android" src="https://img.shields.io/badge/Android-APK-3DDC84?logo=android&logoColor=white">
-  <img alt="Version" src="https://img.shields.io/badge/version-4.0.0-blueviolet">
+  <img alt="Version" src="https://img.shields.io/badge/version-4.1.1-blueviolet">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@max__vibe-26A5E4?logo=telegram&logoColor=white">
 </p>
 
@@ -26,6 +26,15 @@
 ## 🇷🇺 Модифицированный мессенджер MAX
 
 **MaxVibe (Макс Вайб)** — неофициальный мод мессенджера **MAX** для Android: тише, умнее и с контролем над тем, что о тебе видно снаружи.
+
+### ✨ Что нового в 4.1.1
+
+| Фича | Что изменилось |
+|------|----------------|
+| **Защита ссылок** | Улучшена проверка ссылок перед переходом |
+| **Тихие сторис и прочтения** | Доработано скрытие просмотра историй и прочтений |
+| **Звук из Telegram** | Можно поставить звук Telegram при отправке сообщений |
+| **Аналитика** | Дополнительно отключена нежелательная телеметрия |
 
 ### 👁 Невидимость
 
@@ -49,6 +58,7 @@
 | **Боты `@pic` и `@vid`** | Поиск картинок и видео прямо в чате |
 | **Перевод сообщений** | Переводите переписку, не выходя из чата |
 | **Мультиаккаунт** | До 2 дополнительных аккаунтов в одном приложении |
+| **Звук из Telegram** | Звук Telegram при отправке сообщений |
 
 ### 🛡 Броня и маскировка
 
@@ -58,7 +68,7 @@
 | **Вырезана аналитика** | Системы сбора метрик и телеметрии отключены |
 | **PIN-код на чат** | Закройте отдельный диалог кодом |
 | **Антискрин** | Блокировка скриншотов и записи экрана на вашем устройстве |
-| **Защита ссылок** | Сканер риска перед переходом по ссылке |
+| **Защита ссылок** | Улучшенный сканер риска перед переходом по ссылке |
 | **Маскировка под MAX** | Внешне выглядит как оригинальный мессенджер |
 
 Плюс мелкие правки интерфейса и стабильности.
@@ -85,6 +95,15 @@
 
 **MaxVibe** is an unofficial **MAX Messenger** mod for Android: quieter presence, stronger privacy controls, and less telemetry noise.
 
+### ✨ What’s new in 4.1.1
+
+| Feature | What changed |
+|---------|--------------|
+| **Link protection** | Improved risk scan before opening links |
+| **Silent stories & reads** | Refined story-view and read-receipt hiding |
+| **Telegram send sound** | Optional Telegram sound when sending messages |
+| **Analytics** | Extra telemetry / analytics modules disabled |
+
 ### 👁 Stealth
 
 | Feature | What it does |
@@ -107,6 +126,7 @@
 | **`@pic` & `@vid` bots** | Search images and videos right in the chat |
 | **Message translation** | Translate chats without leaving the app |
 | **Multi-account** | Up to 2 extra accounts in one MaxVibe install |
+| **Telegram send sound** | Telegram sound when sending messages |
 
 ### 🛡 Armor & disguise
 
@@ -116,7 +136,7 @@
 | **Analytics stripped** | Metric / telemetry collectors disabled |
 | **PIN on chat** | Lock a specific conversation with a code |
 | **Anti-screenshot** | Blocks screenshots and screen recording on your device |
-| **Link protection** | Risk scan before you open a link |
+| **Link protection** | Improved risk scan before you open a link |
 | **Disguise as MAX** | Looks like the stock MAX messenger |
 
 Plus small UI and stability tweaks.
